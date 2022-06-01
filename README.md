@@ -2,4 +2,4 @@
 
 how to start c#
 
-Unityでのスクリプトです。
+script for Unity
